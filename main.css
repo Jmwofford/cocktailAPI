@@ -1,0 +1,66 @@
+.main {
+  margin-top: 12%;
+  width: 60%;
+  font-size: 18px;
+  background-color: lemonchiffon;
+  padding: 15px;
+  border-radius: 25px;
+  text-align: center;
+  margin: 21px;
+}
+body {
+  font-size: 18px;
+  padding: 2em;
+}
+.innerBtn {
+  padding: 6px;
+}
+button {
+  font-size: 20px;
+}
+.bottle {
+  border: solid blueviolet;
+  background-color: salmon;
+  height: auto;
+  margin: 12px;
+  /* display: flex; */
+  border-radius: 25spx;
+}
+.come_back {
+  border: solid purple;
+  padding: 12px;
+  width: 20%;
+}
+.rmrf {
+  border: solid blue;
+}
+.send {
+  font-size: 22px;
+  background-color: lemonchiffon;
+  padding: 18px;
+  border-radius: 25px;
+  width: 90%;
+  margin-bottom: 1em;
+}
+.send:hover {
+  font-size: 22px;
+  background-color: green;
+  padding: 18px;
+  color: white;
+  border-radius: 25px;
+}
+.container {
+  text-align: center;
+  border: solid black;
+  border-radius: 25px;
+  width: 90%;
+  padding: 1em;
+}
+.magic {
+  border: solid red;
+}
+@media (max-width: 200px) {
+  body {
+    background-color: grey;
+  }
+}
